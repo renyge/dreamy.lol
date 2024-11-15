@@ -1,4 +1,4 @@
-# 🌌 Milky-Way
+# 🌌 My Website
 Milky Way brings forth a minimalist design ethos, allowing your work to shine like stars in the night sky. With clean lines and intuitive navigation, visitors are guided effortlessly through your portfolio, focusing solely on your creations.
 
 Embrace the whimsical charm of Milky Way as it showcases your talents in a manner that's both elegant and endearing. Whether you're a designer, developer, artist, or creative professional of any kind, Milky Way provides the perfect canvas to showcase your endeavors.
